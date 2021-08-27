@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋👋
+
+Perkenalkan saya **Meilika Dwi Putri**.  
+
+Saya seorang mahasiswa Teknik Informatika di Univeritas Lampung.
 
 <!--
 **Meilika/Meilika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
