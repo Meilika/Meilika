@@ -2,7 +2,7 @@
 
 My name is **Meilika Dwi Putri**. I am interested in becoming a Front end Developer and currently studying Informatics Engineering at the University of Lampung, Indonesia.
 
-If you want to know more about me, let's connect on [Linkedin](https://www.linkedin.com/in/meilika-dwi-putri-963b41221/)^^
+If you want to know more about me, let's connect on [Linkedin](https://www.linkedin.com/in/meilika-dwi-putri/)^^
 
 <p align="left">
   <a href="https://github.com/Meilika">
